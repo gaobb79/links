@@ -12,3 +12,6 @@ Links de tudo que vou encontrando para desenvolvimento web.
 
 ### CSS Preprocessors
 - [Sass](http://sass-lang.com/) - Writing pseudo-code css that then is gonna to be converted to a native css
+
+
+REFERENCE: https://github.com/moklick/frontend-stuff
