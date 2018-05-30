@@ -7,7 +7,7 @@ Links de tudo que vou encontrando para desenvolvimento web.
 - [CSS Style Guide](#css-style-guide)
 - [CSS Preprocessors](#css-preprocessors)
 - [LSM Stuff](#lms-stuff)
-- [Online Tools)(#online-tools)
+- [Online Tools](#online-tools)
 
 ### CSS Style Guides
 - [SMACSS](https://smacss.com/) - Scalable and Modular Architecture for CSS - AKA "smacks"
