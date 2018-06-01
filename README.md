@@ -41,7 +41,7 @@ Links de tudo que vou encontrando para desenvolvimento web.
 - [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - SAML
 
 ### Text Editors
-- [Notepad](https://notepad-plus-plus.org/)
+- [Notepad++](https://notepad-plus-plus.org/)
 - [VS Code](https://code.visualstudio.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
