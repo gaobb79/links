@@ -35,6 +35,9 @@ Links de tudo que vou encontrando para desenvolvimento web.
 - [BrowserStack](https://www.browserstack.com/) - Cross browser testing tool
 - [Placeholder](https://placeholder.com) - Image placeholder
 - [TinyPNG](https://tinypng.com) - Image compression
+- [ipstack](https://ipstack.com) - Locate and identify website visitors by IP address
+- [wired-elements](https://stackblitz.com/edit/wired-elements) - Create a web wired layout
+- [Google Web Designer](https://www.google.com/webdesigner/) - Create a web layout
 
 ### Standards
 - [OpenID Connect](http://openid.net/connect/) - OpenID Connect
