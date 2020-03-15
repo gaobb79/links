@@ -18,7 +18,7 @@ Links de tudo que vou encontrando para desenvolvimento web.
 - [Email Service](#email-service)
 
 ### CSS Style Guides
-- [SMACSS](https://smacss.com/) - Scalable and Modular Architecture for CSS - AKA "smacks"
+- [SMACSS](http://smacss.com/) - Scalable and Modular Architecture for CSS - AKA "smacks"
 
 ### CSS Preprocessors
 - [Sass](http://sass-lang.com/) - Writing pseudo-code css that then is gonna to be converted to a native css
@@ -38,6 +38,7 @@ Links de tudo que vou encontrando para desenvolvimento web.
 - [ipstack](https://ipstack.com) - Locate and identify website visitors by IP address
 - [wired-elements](https://stackblitz.com/edit/wired-elements) - Create a web wired layout
 - [Google Web Designer](https://www.google.com/webdesigner/) - Create a web layout
+- [Autoprefixer CSS Online](https://autoprefixer.github.io/) - Parses your CSS and adds vendor prefixes
 
 ### Standards
 - [OpenID Connect](http://openid.net/connect/) - OpenID Connect
